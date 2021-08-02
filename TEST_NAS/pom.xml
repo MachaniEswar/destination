@@ -1,0 +1,4 @@
+ <properties>
+    <compiler-plugin.version>3.8.1</compiler-plugin.version>
+    <maven.compiler.parameters>true</maven.compiler.parameters>
+  </properties>
