@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<employee>
-    <departId>201</departId>
-    <employeeId>1001</employeeId>
-    <employeeName>Cary</employeeName>
-</employee>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><employee><departId>201</departId><employeeId>1001</employeeId><employeeName>Cary</employeeName></employee>
